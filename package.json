@@ -1,8 +1,8 @@
 {
   "name": "@launchquest/log",
   "version": "1.0.0",
-  "description": "Structured, colorful, and configurable logging logging library",
-  "keywords": [ "logging", "log", "logger", "quick", "simple", "powerful", "colorful", "structured", "configurable" ],
+  "description": "Structured, colourful, and configurable logging logging library",
+  "keywords": [ "logging", "log", "logger", "quick", "simple", "powerful", "colorful", "colourful", "structured", "configurable" ],
   "author": "Adam K Dean <adam@launchquest.co>",
   "license": "LQL-1.0",
   "main": "src/index.js",

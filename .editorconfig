@@ -1,0 +1,14 @@
+# top-most EditorConfig file
+root = true
+
+# All files
+[*]
+indent_style = space
+indent_size = 2
+
+# JavaScript specific settings
+[*.js]
+quote_type = single
+insert_final_newline = true
+end_of_line = lf
+semicolon = false
